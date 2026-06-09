@@ -1,7 +1,9 @@
 # Salary Data Prediction System
 
 **Author(s):** Suhani Bode
+
 **Affiliation:** Rashtrasant Tukadoji Maharaj Nagpur University
+
 **Date:** June 2026
 
 ## Abstract
